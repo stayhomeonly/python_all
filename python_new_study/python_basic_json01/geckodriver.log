@@ -1,0 +1,13 @@
+1655713949346	geckodriver	INFO	Listening on 127.0.0.1:61544
+1655713952388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\FENG\\AppData\\Local\\Temp\\rust_mozprofileLzy1kS"
+1655713953055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\FENG\\AppData\\Local\\Temp\\rust_mozprofileLzy1kS\\search.json.mozlz4", (void 0)))
+1655713954988	Marionette	INFO	Listening on port 61556
+1655713955074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655713955108	Marionette	INFO	Stopped listening on port 61556
+1655713955698	geckodriver	INFO	Listening on 127.0.0.1:61582
+1655713958757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\FENG\\AppData\\Local\\Temp\\rust_mozprofileAUWgBD"
+1655713959158	Marionette	INFO	Marionette enabled
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5318: TypeError: this.PictureInPicture is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\FENG\\AppData\\Local\\Temp\\rust_mozprofileAUWgBD\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 4103: Error: Area not yet restored
