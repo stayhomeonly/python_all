@@ -1,0 +1,63 @@
+{
+  "uid" : "f8b9ec3737bd5ef0",
+  "name" : "test_register[data1]",
+  "fullName" : "testcase.test_register.TestRegister#test_register",
+  "historyId" : "e9a416e40f561a3c6147fa9eea25b42b",
+  "time" : {
+    "start" : 1662282207016,
+    "stop" : 1662282207020,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_register"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRegister"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4A9BNHE"
+  }, {
+    "name" : "thread",
+    "value" : "9260-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_register"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'case_id': '2', 'case_data': {'username': '', 'password': 'a123456', 're_password': 'a123456', 'phone': '18822223333', 'sex': '', 'birthday': '', 'qq': '', 'email': ''}, 'exp': '用户名不能为空'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8b9ec3737bd5ef0.json",
+  "parameterValues" : [ "{'case_id': '2', 'case_data': {'username': '', 'password': 'a123456', 're_password': 'a123456', 'phone': '18822223333', 'sex': '', 'birthday': '', 'qq': '', 'email': ''}, 'exp': '用户名不能为空'}" ]
+}

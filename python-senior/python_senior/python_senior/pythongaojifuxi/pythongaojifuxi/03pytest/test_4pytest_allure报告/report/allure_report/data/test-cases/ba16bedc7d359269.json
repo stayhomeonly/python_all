@@ -1,0 +1,76 @@
+{
+  "uid" : "ba16bedc7d359269",
+  "name" : "test_case03",
+  "fullName" : "test_3pytest_测试固件.test_pytest04.TestFixture02#test_case03",
+  "historyId" : "02cc8583286eabe8651d0217f56a08c3",
+  "time" : {
+    "start" : 1663489389459,
+    "stop" : 1663489389459,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "deb8b2aae1275cf8",
+      "name" : "stdout",
+      "source" : "deb8b2aae1275cf8.txt",
+      "type" : "text/plain",
+      "size" : 19
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_3pytest_测试固件"
+  }, {
+    "name" : "suite",
+    "value" : "test_pytest04"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestFixture02"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1OCD62H"
+  }, {
+    "name" : "thread",
+    "value" : "10932-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_3pytest_测试固件.test_pytest04"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba16bedc7d359269.json",
+  "parameterValues" : [ ]
+}

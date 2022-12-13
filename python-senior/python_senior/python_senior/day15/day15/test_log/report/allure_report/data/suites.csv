@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Aug 14 15:47:33 CST 2022","Sun Aug 14 15:47:33 CST 2022","80","","test_login","TestLogin","","","用户名错误的场景","我们的第一个登录小程序"
+"passed","Sun Aug 14 15:47:33 CST 2022","Sun Aug 14 15:47:33 CST 2022","62","","test_login","TestLogin","","","登录测试主流程","我们的第一个登录小程序"
+"passed","Sun Aug 14 15:47:33 CST 2022","Sun Aug 14 15:47:33 CST 2022","84","","test_login","TestLogin","","","密码为空的场景","我们的第一个登录小程序"
+"passed","Sun Aug 14 15:47:33 CST 2022","Sun Aug 14 15:47:33 CST 2022","69","","test_login","TestLogin","","","密码错误的场景","我们的第一个登录小程序"
+"passed","Sun Aug 14 15:47:33 CST 2022","Sun Aug 14 15:47:33 CST 2022","74","","test_login","TestLogin","","","用户名为空的场景","我们的第一个登录小程序"

@@ -1,0 +1,98 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "登录模块",
+    "children" : [ {
+      "name" : "登录模块的子模块",
+      "children" : [ {
+        "name" : "登录测试主流程",
+        "uid" : "77324d8ae7ec0a16",
+        "parentUid" : "b0be720120062a98372651e53d025b89",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660463253389,
+          "stop" : 1660463253451,
+          "duration" : 62
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<day15.test_excel_data.excel_test02.CaseData object at 0x0000028D2F186C50>" ]
+      }, {
+        "name" : "用户名为空的场景",
+        "uid" : "778c830d9c88c511",
+        "parentUid" : "b0be720120062a98372651e53d025b89",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660463253459,
+          "stop" : 1660463253533,
+          "duration" : 74
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<day15.test_excel_data.excel_test02.CaseData object at 0x0000028D2F186A20>" ]
+      }, {
+        "name" : "用户名错误的场景",
+        "uid" : "10cf7fba0ea6e190",
+        "parentUid" : "b0be720120062a98372651e53d025b89",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660463253545,
+          "stop" : 1660463253625,
+          "duration" : 80
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<day15.test_excel_data.excel_test02.CaseData object at 0x0000028D2F186C88>" ]
+      }, {
+        "name" : "密码为空的场景",
+        "uid" : "51fabd5a15a34a05",
+        "parentUid" : "b0be720120062a98372651e53d025b89",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660463253632,
+          "stop" : 1660463253716,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<day15.test_excel_data.excel_test02.CaseData object at 0x0000028D2F186A90>" ]
+      }, {
+        "name" : "密码错误的场景",
+        "uid" : "93c592ea3ca98602",
+        "parentUid" : "b0be720120062a98372651e53d025b89",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660463253722,
+          "stop" : 1660463253791,
+          "duration" : 69
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "<day15.test_excel_data.excel_test02.CaseData object at 0x0000028D2F186CC0>" ]
+      } ],
+      "uid" : "b0be720120062a98372651e53d025b89"
+    } ],
+    "uid" : "6958045a481574bf02bb11ef07a7047b"
+  } ]
+}

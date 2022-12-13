@@ -1,0 +1,115 @@
+{
+  "uid" : "fbfc9aba3369c1f6",
+  "name" : "星光项目_token_login",
+  "fullName" : "testcase.test_login.TestLogin#test_login",
+  "historyId" : "b90bb748d35be4d7a32636aea1197561",
+  "time" : {
+    "start" : 1663490997673,
+    "stop" : 1663490997687,
+    "duration" : 14
+  },
+  "description" : "星光项目接口自动化-登录接口",
+  "descriptionHtml" : "<p>星光项目接口自动化-登录接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "星光项目接口自动化-登录接口",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "发起请求:",
+      "time" : {
+        "start" : 1663490997674,
+        "stop" : 1663490997686,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "e1914b382524de68",
+      "name" : "请求参数",
+      "source" : "e1914b382524de68.attach",
+      "type" : "text/plain",
+      "size" : 56
+    }, {
+      "uid" : "b7c05784e6907d12",
+      "name" : "预期结果",
+      "source" : "b7c05784e6907d12.attach",
+      "type" : "text/plain",
+      "size" : 21
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "登录接口"
+  }, {
+    "name" : "epic",
+    "value" : "星光项目接口"
+  }, {
+    "name" : "tag",
+    "value" : "P0"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1OCD62H"
+  }, {
+    "name" : "thread",
+    "value" : "13268-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'case_data': {'username': '', 'password': 'a123456', 'typeId': '101'}, 'exp': '用户名不能为空'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "P0" ]
+  },
+  "source" : "fbfc9aba3369c1f6.json",
+  "parameterValues" : [ "{'case_data': {'username': '', 'password': 'a123456', 'typeId': '101'}, 'exp': '用户名不能为空'}" ]
+}

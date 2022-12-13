@@ -1,0 +1,398 @@
+2022-05-19 15:50:32,772 desired_caps.py[line:46] INFO start app....
+2022-05-19 15:50:58,756 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 15:50:58,803 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 15:50:58,831 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 15:50:59,884 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 15:50:59,903 loginView.py[line:37] INFO ========================login_action===========
+2022-05-19 15:50:59,904 loginView.py[line:39] INFO usename is :fengxin1
+2022-05-19 15:51:01,310 loginView.py[line:41] INFO usename is :fengxin1
+2022-05-19 15:51:01,311 loginView.py[line:43] INFO password is :FENG1234
+2022-05-19 15:51:02,348 loginView.py[line:46] INFO click loginBtn
+2022-05-19 15:51:03,476 loginView.py[line:49] INFO login finished
+2022-05-19 15:51:03,476 loginView.py[line:53] INFO ======check_account_alert=====
+2022-05-19 15:53:03,994 desired_caps.py[line:46] INFO start app....
+2022-05-19 15:53:26,877 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 15:53:26,918 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 15:53:27,711 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 15:53:27,727 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 15:53:27,750 loginView.py[line:37] INFO ========================login_action===========
+2022-05-19 15:53:27,750 loginView.py[line:39] INFO usename is :fengxin1
+2022-05-19 15:53:29,042 loginView.py[line:41] INFO usename is :fengxin1
+2022-05-19 15:53:29,043 loginView.py[line:43] INFO password is :FENG1234
+2022-05-19 15:53:30,085 loginView.py[line:46] INFO click loginBtn
+2022-05-19 15:53:33,483 loginView.py[line:49] INFO login finished
+2022-05-19 15:53:33,483 loginView.py[line:63] INFO ======check_login_status======
+2022-05-19 15:53:33,483 comm_fun.py[line:73] INFO =====check_market_ad=======
+2022-05-19 15:53:33,553 loginView.py[line:53] INFO ======check_account_alert=====
+2022-05-19 15:53:34,234 loginView.py[line:75] INFO login success
+2022-05-19 15:53:34,234 loginView.py[line:80] INFO ===logout_action=====
+2022-05-19 15:58:58,059 desired_caps.py[line:46] INFO start app....
+2022-05-19 15:59:36,404 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:00:00,886 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:00:00,935 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:00:00,968 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:00:01,143 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:00:01,739 loginView.py[line:37] INFO ========================login_action===========
+2022-05-19 16:00:01,739 loginView.py[line:39] INFO usename is :fengxin1
+2022-05-19 16:00:23,695 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:00:47,335 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:00:47,367 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:00:47,401 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:00:47,563 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:00:48,162 loginView.py[line:37] INFO ========================login_action===========
+2022-05-19 16:00:48,162 loginView.py[line:39] INFO usename is :fengxin1
+2022-05-19 16:00:49,529 loginView.py[line:41] INFO usename is :fengxin1
+2022-05-19 16:00:49,529 loginView.py[line:43] INFO password is :FENG1234
+2022-05-19 16:00:50,586 loginView.py[line:46] INFO click loginBtn
+2022-05-19 16:00:51,106 loginView.py[line:49] INFO login finished
+2022-05-19 16:00:51,106 loginView.py[line:63] INFO ======check_login_status======
+2022-05-19 16:00:51,106 comm_fun.py[line:73] INFO =====check_market_ad=======
+2022-05-19 16:00:51,888 loginView.py[line:53] INFO ======check_account_alert=====
+2022-05-19 16:00:53,530 loginView.py[line:75] INFO login success
+2022-05-19 16:00:53,531 loginView.py[line:80] INFO ===logout_action=====
+2022-05-19 16:15:25,174 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:15:48,153 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:15:48,183 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:15:48,200 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:15:48,289 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:15:48,978 loginView.py[line:117] INFO ============login_action==============
+2022-05-19 16:15:48,978 loginView.py[line:118] INFO username is:fengxin1
+2022-05-19 16:16:21,646 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:16:43,259 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:16:43,291 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:16:43,324 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:16:43,481 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:16:44,078 loginView.py[line:118] INFO ============login_action==============
+2022-05-19 16:16:44,078 loginView.py[line:119] INFO username is:fengxin1
+2022-05-19 16:17:21,260 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:17:42,705 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:17:42,726 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:17:42,757 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:17:43,808 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:17:43,830 loginView.py[line:36] INFO ========================login_action===========
+2022-05-19 16:17:43,831 loginView.py[line:38] INFO usename is :fengxin1
+2022-05-19 16:17:45,084 loginView.py[line:40] INFO usename is :fengxin1
+2022-05-19 16:17:45,084 loginView.py[line:42] INFO password is :FENG1234
+2022-05-19 16:17:46,122 loginView.py[line:45] INFO click loginBtn
+2022-05-19 16:17:46,626 loginView.py[line:48] INFO login finished
+2022-05-19 16:17:46,626 loginView.py[line:69] INFO ======check_login_status======
+2022-05-19 16:17:46,626 comm_fun.py[line:73] INFO =====check_market_ad=======
+2022-05-19 16:17:49,324 loginView.py[line:52] INFO ======check_account_alert=====
+2022-05-19 16:17:50,051 loginView.py[line:81] INFO login success
+2022-05-19 16:17:50,051 loginView.py[line:62] INFO ===logout_action=====
+2022-05-19 16:25:34,153 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:25:54,180 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:25:54,206 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:25:54,980 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:25:54,992 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:25:55,007 loginView.py[line:36] INFO ========================login_action===========
+2022-05-19 16:25:55,007 loginView.py[line:38] INFO usename is :fengxin1
+2022-05-19 16:26:10,759 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:26:32,401 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:26:32,426 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:26:32,459 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:26:33,511 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:26:33,528 loginView.py[line:36] INFO ========================login_action===========
+2022-05-19 16:26:33,528 loginView.py[line:38] INFO usename is :fengxin1
+2022-05-19 16:27:21,531 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:27:43,370 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:27:43,411 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:27:43,440 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:27:44,503 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:27:44,523 loginView.py[line:36] INFO ========================login_action===========
+2022-05-19 16:27:44,523 loginView.py[line:38] INFO usename is :fengxin1
+2022-05-19 16:28:36,084 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:28:57,616 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:28:57,639 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:28:57,657 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:28:57,711 comm_fun.py[line:41] INFO skipBtn element is not found!
+2022-05-19 16:28:57,711 loginView.py[line:36] INFO ========================login_action===========
+2022-05-19 16:28:57,711 loginView.py[line:38] INFO usename is :fengxin1
+2022-05-19 16:30:01,522 desired_caps.py[line:46] INFO start app....
+2022-05-19 16:30:24,611 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-19 16:30:24,641 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-19 16:30:24,661 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-19 16:30:25,394 comm_fun.py[line:43] INFO click skipBtn
+2022-05-19 16:30:25,411 loginView.py[line:36] INFO ========================login_action===========
+2022-05-19 16:30:25,411 loginView.py[line:38] INFO usename is :fengxin1
+2022-05-19 16:30:27,979 loginView.py[line:41] INFO usename is :fengxin1
+2022-05-19 16:30:27,979 loginView.py[line:43] INFO password is :FENG1234
+2022-05-19 16:30:29,028 loginView.py[line:46] INFO click loginBtn
+2022-05-19 16:30:29,550 loginView.py[line:49] INFO login finished
+2022-05-19 16:30:29,550 loginView.py[line:70] INFO ======check_login_status======
+2022-05-19 16:30:29,550 comm_fun.py[line:73] INFO =====check_market_ad=======
+2022-05-19 16:30:32,731 loginView.py[line:53] INFO ======check_account_alert=====
+2022-05-19 16:30:33,414 loginView.py[line:82] INFO login success
+2022-05-19 16:30:33,414 loginView.py[line:63] INFO ===logout_action=====
+2022-05-21 20:57:08,515 desired_caps.py[line:46] INFO start app....
+2022-05-21 20:59:56,232 desired_caps.py[line:46] INFO start app....
+2022-05-21 21:00:31,319 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 21:00:31,356 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 21:00:31,382 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 21:00:32,081 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 21:00:32,104 registerView.py[line:53] INFO ======register_action======
+2022-05-21 21:00:32,933 registerView.py[line:56] INFO set userhead
+2022-05-21 21:00:59,597 desired_caps.py[line:46] INFO start app....
+2022-05-21 21:01:24,553 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 21:01:24,591 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 21:01:24,633 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 21:01:24,813 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 21:01:25,408 registerView.py[line:53] INFO ======register_action======
+2022-05-21 21:02:51,593 desired_caps.py[line:46] INFO start app....
+2022-05-21 21:03:25,735 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 21:03:25,773 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 21:03:25,809 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 21:03:26,524 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 21:03:26,562 registerView.py[line:54] INFO ======register_action======
+2022-05-21 21:03:27,505 registerView.py[line:57] INFO set userhead
+2022-05-21 21:03:36,752 registerView.py[line:66] INFO username is zxw2018fly6745
+2022-05-21 21:03:39,393 registerView.py[line:70] INFO password is zxw20188839
+2022-05-21 21:03:41,951 registerView.py[line:74] INFO email is 51zxw3785@163.com
+2022-05-21 21:03:46,570 registerView.py[line:84] ERROR register fail !
+2022-05-21 21:03:46,570 comm_fun.py[line:69] INFO get register fail screenshot
+2022-05-21 21:06:36,534 desired_caps.py[line:46] INFO start app....
+2022-05-21 21:07:01,689 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 21:07:01,743 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 21:07:02,473 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 21:07:02,497 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 21:07:02,528 registerView.py[line:54] INFO ======register_action======
+2022-05-21 21:07:08,569 desired_caps.py[line:46] INFO start app....
+2022-05-21 21:07:33,649 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 21:07:33,689 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 21:07:33,735 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 21:07:33,882 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 21:07:34,479 registerView.py[line:54] INFO ======register_action======
+2022-05-21 21:08:09,151 desired_caps.py[line:46] INFO start app....
+2022-05-21 21:08:34,973 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 21:08:35,002 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 21:08:35,027 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 21:08:35,132 comm_fun.py[line:41] INFO skipBtn element is not found!
+2022-05-21 21:08:35,132 registerView.py[line:54] INFO ======register_action======
+2022-05-21 21:09:13,698 desired_caps.py[line:46] INFO start app....
+2022-05-21 21:09:40,215 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 21:09:40,261 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 21:09:40,297 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 21:09:41,087 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 21:09:41,110 registerView.py[line:54] INFO ======register_action======
+2022-05-21 21:09:43,219 registerView.py[line:58] INFO set userhead
+2022-05-21 21:09:52,440 registerView.py[line:67] INFO username is zxw2018fly8293
+2022-05-21 21:09:55,065 registerView.py[line:71] INFO password is zxw20185469
+2022-05-21 21:09:57,628 registerView.py[line:75] INFO email is m15161036382@163.com
+2022-05-21 21:10:02,257 registerView.py[line:85] ERROR register fail !
+2022-05-21 21:10:02,258 comm_fun.py[line:69] INFO get register fail screenshot
+2022-05-21 21:45:44,075 desired_caps.py[line:46] INFO start app....
+2022-05-21 21:46:12,622 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 21:46:12,687 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 21:46:13,460 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 21:46:13,478 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 21:46:13,503 registerView.py[line:54] INFO ======register_action======
+2022-05-21 21:46:15,546 registerView.py[line:58] INFO set userhead
+2022-05-21 21:46:24,764 registerView.py[line:67] INFO username is zxw2018fly2561
+2022-05-21 21:46:27,393 registerView.py[line:71] INFO password is zxw4038
+2022-05-21 21:46:29,954 registerView.py[line:75] INFO email is 1126732363@qq.com
+2022-05-21 21:46:34,602 registerView.py[line:85] ERROR register fail !
+2022-05-21 21:46:34,602 comm_fun.py[line:69] INFO get register fail screenshot
+2022-05-21 21:46:58,331 desired_caps.py[line:46] INFO start app....
+2022-05-21 21:47:23,667 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 21:47:23,730 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 21:47:24,516 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 21:47:24,542 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 21:47:24,576 registerView.py[line:54] INFO ======register_action======
+2022-05-21 21:47:26,644 registerView.py[line:58] INFO set userhead
+2022-05-21 21:47:35,861 registerView.py[line:67] INFO username is zxw2018fly8668
+2022-05-21 21:47:55,795 desired_caps.py[line:46] INFO start app....
+2022-05-21 21:48:21,944 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 21:48:21,984 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 21:48:22,029 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 21:48:22,751 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 21:48:22,782 registerView.py[line:54] INFO ======register_action======
+2022-05-21 21:48:24,835 registerView.py[line:58] INFO set userhead
+2022-05-21 21:48:33,016 registerView.py[line:67] INFO username is zxwfly8077
+2022-05-21 21:48:35,625 registerView.py[line:71] INFO password is FENG4779
+2022-05-21 21:48:38,191 registerView.py[line:75] INFO email is 1126734659@qq.com
+2022-05-21 21:48:42,797 registerView.py[line:85] ERROR register fail !
+2022-05-21 21:48:42,797 comm_fun.py[line:69] INFO get register fail screenshot
+2022-05-21 21:49:58,580 desired_caps.py[line:46] INFO start app....
+2022-05-21 21:50:29,379 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 21:50:29,434 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 21:50:29,465 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 21:50:30,500 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 21:50:30,539 registerView.py[line:54] INFO ======register_action======
+2022-05-21 21:50:32,588 registerView.py[line:58] INFO set userhead
+2022-05-21 21:50:41,765 registerView.py[line:67] INFO username is zxwfly8030
+2022-05-21 21:50:44,423 registerView.py[line:71] INFO password is FENG5745
+2022-05-21 21:50:47,000 registerView.py[line:75] INFO email is 1126732488@qq.com
+2022-05-21 21:50:51,655 registerView.py[line:85] ERROR register fail !
+2022-05-21 21:50:51,655 comm_fun.py[line:69] INFO get register fail screenshot
+2022-05-21 21:54:46,502 desired_caps.py[line:46] INFO start app....
+2022-05-21 21:55:12,437 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 21:55:12,510 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 21:55:12,543 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 21:55:13,264 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 21:55:13,296 registerView.py[line:54] INFO ======register_action======
+2022-05-21 21:55:15,361 registerView.py[line:58] INFO set userhead
+2022-05-21 21:55:24,557 registerView.py[line:67] INFO username is zxwfly8895
+2022-05-21 21:55:49,591 desired_caps.py[line:46] INFO start app....
+2022-05-21 21:56:18,660 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 21:56:18,683 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 21:56:18,705 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 21:56:19,381 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 21:56:19,400 registerView.py[line:54] INFO ======register_action======
+2022-05-21 21:56:21,459 registerView.py[line:58] INFO set userhead
+2022-05-21 21:56:30,599 registerView.py[line:67] INFO username is zxwfly6512
+2022-05-21 21:59:43,012 desired_caps.py[line:46] INFO start app....
+2022-05-21 22:00:05,927 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 22:00:05,968 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 22:00:05,994 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 22:00:06,048 comm_fun.py[line:41] INFO skipBtn element is not found!
+2022-05-21 22:00:06,048 registerView.py[line:54] INFO ======register_action======
+2022-05-21 22:00:14,089 desired_caps.py[line:46] INFO start app....
+2022-05-21 22:00:36,925 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 22:00:36,965 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 22:00:36,996 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 22:00:38,072 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 22:00:38,089 registerView.py[line:54] INFO ======register_action======
+2022-05-21 22:00:40,136 registerView.py[line:58] INFO set userhead
+2022-05-21 22:00:49,174 registerView.py[line:67] INFO username is zxwfly8068
+2022-05-21 22:00:51,763 registerView.py[line:72] INFO password is FENG1234
+2022-05-21 22:00:54,330 registerView.py[line:77] INFO email is 1126733340@qq.com
+2022-05-21 22:00:58,949 registerView.py[line:87] ERROR register fail !
+2022-05-21 22:00:58,949 comm_fun.py[line:69] INFO get register fail screenshot
+2022-05-21 22:06:37,754 desired_caps.py[line:46] INFO start app....
+2022-05-21 22:07:00,525 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 22:07:00,557 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 22:07:00,578 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 22:07:01,629 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 22:07:01,652 registerView.py[line:54] INFO ======register_action======
+2022-05-21 22:07:03,704 registerView.py[line:58] INFO set userhead
+2022-05-21 22:07:13,345 registerView.py[line:67] INFO username is zxwfly4278
+2022-05-21 22:07:15,952 registerView.py[line:72] INFO password is FENG1234
+2022-05-21 22:07:18,523 registerView.py[line:77] INFO email is 1126731111@qq.com
+2022-05-21 22:07:23,148 registerView.py[line:87] ERROR register fail !
+2022-05-21 22:07:23,148 comm_fun.py[line:69] INFO get register fail screenshot
+2022-05-21 22:11:02,548 desired_caps.py[line:46] INFO start app....
+2022-05-21 22:11:25,547 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 22:11:25,571 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 22:11:25,587 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 22:11:26,266 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 22:11:26,283 registerView.py[line:54] INFO ======register_action======
+2022-05-21 22:11:28,330 registerView.py[line:58] INFO set userhead
+2022-05-21 22:11:36,438 registerView.py[line:67] INFO username is zxwfly7290
+2022-05-21 22:11:39,046 registerView.py[line:72] INFO password is FENG1234
+2022-05-21 22:12:02,032 desired_caps.py[line:46] INFO start app....
+2022-05-21 22:12:25,111 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 22:12:25,149 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 22:12:25,179 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 22:12:25,288 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 22:12:25,878 registerView.py[line:54] INFO ======register_action======
+2022-05-21 22:12:27,928 registerView.py[line:58] INFO set userhead
+2022-05-21 22:12:36,046 registerView.py[line:67] INFO username is zxwfly7794
+2022-05-21 22:12:38,655 registerView.py[line:72] INFO password is FENG1234
+2022-05-21 22:12:43,232 registerView.py[line:79] INFO email is 1126731111@qq.com
+2022-05-21 22:15:50,174 desired_caps.py[line:46] INFO start app....
+2022-05-21 22:16:12,210 desired_caps.py[line:46] INFO start app....
+2022-05-21 22:16:35,356 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 22:16:35,398 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 22:16:35,430 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 22:16:35,530 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 22:16:36,118 registerView.py[line:54] INFO ======register_action======
+2022-05-21 22:16:38,158 registerView.py[line:58] INFO set userhead
+2022-05-21 22:16:47,301 registerView.py[line:67] INFO username is zxwfly6136
+2022-05-21 22:16:49,881 registerView.py[line:73] INFO password is FENG1234
+2022-05-21 22:21:17,285 desired_caps.py[line:46] INFO start app....
+2022-05-21 22:21:41,959 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 22:21:41,985 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 22:21:42,679 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 22:21:42,700 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 22:21:42,718 registerView.py[line:54] INFO ======register_action======
+2022-05-21 22:21:44,751 registerView.py[line:58] INFO set userhead
+2022-05-21 22:21:53,880 registerView.py[line:67] INFO username is zxwfly1103
+2022-05-21 22:54:16,340 desired_caps.py[line:46] INFO start app....
+2022-05-21 22:54:38,519 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 22:54:38,573 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 22:54:38,593 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 22:54:38,620 comm_fun.py[line:41] INFO skipBtn element is not found!
+2022-05-21 22:54:38,621 registerView.py[line:54] INFO ======register_action======
+2022-05-21 22:54:48,932 desired_caps.py[line:46] INFO start app....
+2022-05-21 22:55:12,955 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 22:55:12,996 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 22:55:13,029 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 22:55:14,085 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 22:55:14,108 registerView.py[line:52] INFO ======register_action======
+2022-05-21 22:55:16,158 registerView.py[line:56] INFO set userhead
+2022-05-21 22:55:25,336 registerView.py[line:65] INFO username is zxw2018FLY7496
+2022-05-21 22:55:27,988 registerView.py[line:71] INFO password is zxw4219
+2022-05-21 22:55:33,158 registerView.py[line:80] INFO email is 51zxw2538@163.com
+2022-05-21 22:55:38,377 registerView.py[line:93] ERROR register fail !
+2022-05-21 22:55:38,377 comm_fun.py[line:69] INFO get register fail screenshot
+2022-05-21 22:55:44,435 desired_caps.py[line:46] INFO start app....
+2022-05-21 22:56:09,654 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 22:56:09,686 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 22:56:09,714 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 22:56:10,446 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 22:56:10,468 registerView.py[line:52] INFO ======register_action======
+2022-05-21 22:56:12,521 registerView.py[line:56] INFO set userhead
+2022-05-21 22:56:21,671 registerView.py[line:65] INFO username is zxw2018FLY1782
+2022-05-21 22:56:24,366 registerView.py[line:71] INFO password is zxw126007
+2022-05-21 22:56:29,560 registerView.py[line:80] INFO email is 51zxw8549@163.com
+2022-05-21 22:56:34,817 registerView.py[line:104] INFO ======add_register_info=====
+2022-05-21 22:56:34,817 registerView.py[line:106] INFO select school...
+2022-05-21 22:57:28,623 desired_caps.py[line:46] INFO start app....
+2022-05-21 22:57:51,517 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 22:57:51,747 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 22:57:51,794 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 22:57:51,897 comm_fun.py[line:41] INFO skipBtn element is not found!
+2022-05-21 22:57:51,897 registerView.py[line:52] INFO ======register_action======
+2022-05-21 22:57:58,155 desired_caps.py[line:46] INFO start app....
+2022-05-21 22:58:21,777 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 22:58:21,820 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 22:58:21,849 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 22:58:22,542 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 22:58:22,571 registerView.py[line:52] INFO ======register_action======
+2022-05-21 22:58:24,624 registerView.py[line:56] INFO set userhead
+2022-05-21 22:58:33,773 registerView.py[line:65] INFO username is zxw2018FLY7183
+2022-05-21 22:58:36,368 registerView.py[line:71] INFO password is zxw128250
+2022-05-21 22:58:41,508 registerView.py[line:80] INFO email is 51zxw3681@163.com
+2022-05-21 22:58:46,774 registerView.py[line:93] ERROR register fail !
+2022-05-21 22:58:46,774 comm_fun.py[line:69] INFO get register fail screenshot
+2022-05-21 22:58:52,902 desired_caps.py[line:46] INFO start app....
+2022-05-21 22:59:16,853 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 22:59:16,896 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 22:59:16,927 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 22:59:17,045 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 22:59:17,630 registerView.py[line:52] INFO ======register_action======
+2022-05-21 22:59:19,706 registerView.py[line:56] INFO set userhead
+2022-05-21 22:59:28,888 registerView.py[line:65] INFO username is zxw2019FLY7962
+2022-05-21 22:59:31,514 registerView.py[line:71] INFO password is zxw127119
+2022-05-21 22:59:36,699 registerView.py[line:80] INFO email is 51zxw7088@163.com
+2022-05-21 22:59:41,982 registerView.py[line:104] INFO ======add_register_info=====
+2022-05-21 22:59:41,982 registerView.py[line:106] INFO select school...
+2022-05-21 22:59:47,585 registerView.py[line:113] INFO select major...
+2022-05-21 23:00:07,262 desired_caps.py[line:46] INFO start app....
+2022-05-21 23:00:31,080 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-21 23:00:31,116 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-21 23:00:31,154 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-21 23:00:31,277 comm_fun.py[line:43] INFO click skipBtn
+2022-05-21 23:00:31,866 registerView.py[line:52] INFO ======register_action======
+2022-05-21 23:00:33,927 registerView.py[line:56] INFO set userhead
+2022-05-21 23:00:42,986 registerView.py[line:65] INFO username is zxw2019FLY5867
+2022-05-21 23:00:45,631 registerView.py[line:71] INFO password is zxw125239
+2022-05-21 23:00:50,820 registerView.py[line:80] INFO email is 51zxw2616@163.com
+2022-05-21 23:00:56,068 registerView.py[line:93] ERROR register fail !
+2022-05-21 23:00:56,069 comm_fun.py[line:69] INFO get register fail screenshot
+2022-05-22 01:42:29,293 desired_caps.py[line:46] INFO start app....
+2022-05-22 01:43:03,078 comm_fun.py[line:26] INFO ============check_cancelBtn===============
+2022-05-22 01:43:03,125 comm_fun.py[line:33] INFO click cancelBtn
+2022-05-22 01:43:03,156 comm_fun.py[line:37] INFO ==========check_skipBtn===========
+2022-05-22 01:43:03,973 comm_fun.py[line:43] INFO click skipBtn
+2022-05-22 01:43:04,005 registerView.py[line:52] INFO ======register_action======
+2022-05-22 01:43:06,066 registerView.py[line:56] INFO set userhead
+2022-05-22 01:43:15,267 registerView.py[line:65] INFO username is zxw2019FLY7443
+2022-05-22 01:43:17,863 registerView.py[line:71] INFO password is zxw125011
+2022-05-22 01:43:23,015 registerView.py[line:80] INFO email is 51zxw3294@163.com
+2022-05-22 01:43:28,260 registerView.py[line:104] INFO ======add_register_info=====
+2022-05-22 01:43:28,260 registerView.py[line:106] INFO select school...
+2022-05-22 01:43:35,994 registerView.py[line:114] INFO select major...
+2022-05-22 01:43:46,551 registerView.py[line:127] INFO =====check_register_status=====
+2022-05-22 01:43:46,551 comm_fun.py[line:73] INFO =====check_market_ad=======
+2022-05-22 01:43:51,672 registerView.py[line:138] INFO register success!

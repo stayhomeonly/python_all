@@ -1,0 +1,82 @@
+{
+  "uid" : "4dcfbb567b9fdc0d",
+  "name" : "test_login02",
+  "fullName" : "test_allure04.TestLogin#test_login02",
+  "historyId" : "e6a9a14cde3fc631ea00d7d03f1346d6",
+  "time" : {
+    "start" : 1663490185946,
+    "stop" : 1663490185950,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ccbef57c0cf57d0a",
+      "name" : "请求数据为:",
+      "source" : "ccbef57c0cf57d0a.attach",
+      "type" : "text/plain",
+      "size" : 38
+    }, {
+      "uid" : "e0256e7377c11f40",
+      "name" : "响应数据为:",
+      "source" : "e0256e7377c11f40.attach",
+      "type" : "text/plain",
+      "size" : 30
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "[epic] 淘宝电商系统测试"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure04"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1OCD62H"
+  }, {
+    "name" : "thread",
+    "value" : "8676-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_allure04"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4dcfbb567b9fdc0d.json",
+  "parameterValues" : [ ]
+}

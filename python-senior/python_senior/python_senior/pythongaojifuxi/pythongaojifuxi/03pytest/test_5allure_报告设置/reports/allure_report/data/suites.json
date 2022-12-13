@@ -1,0 +1,47 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_allure04",
+    "children" : [ {
+      "name" : "TestLogin",
+      "children" : [ {
+        "name" : "[Title] 验证正确的用户名和密码能否成功登录",
+        "uid" : "12b83d0358a04306",
+        "parentUid" : "4542bb25ba59d9304f921be57f1521b2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1663490185920,
+          "stop" : 1663490185921,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login02",
+        "uid" : "4dcfbb567b9fdc0d",
+        "parentUid" : "4542bb25ba59d9304f921be57f1521b2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1663490185946,
+          "stop" : 1663490185950,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4542bb25ba59d9304f921be57f1521b2"
+    } ],
+    "uid" : "b8c684a5c616264f021213dc5f33aa9e"
+  } ]
+}

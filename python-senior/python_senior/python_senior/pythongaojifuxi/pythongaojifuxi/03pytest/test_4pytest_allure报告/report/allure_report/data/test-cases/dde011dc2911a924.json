@@ -1,0 +1,109 @@
+{
+  "uid" : "dde011dc2911a924",
+  "name" : "test_case02[3]",
+  "fullName" : "test_3pytest_测试固件.test_pytest01.TestFixture#test_case02",
+  "historyId" : "8fd7486c6bbe674a923ee6aa3f13409b",
+  "time" : {
+    "start" : 1663489389342,
+    "stop" : 1663489389343,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "func_scope",
+    "time" : {
+      "start" : 1663489389341,
+      "stop" : 1663489389341,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5ac7258eb0f8922f",
+      "name" : "stdout",
+      "source" : "5ac7258eb0f8922f.txt",
+      "type" : "text/plain",
+      "size" : 107
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "func_scope::0",
+    "time" : {
+      "start" : 1663489389343,
+      "stop" : 1663489389343,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_3pytest_测试固件"
+  }, {
+    "name" : "suite",
+    "value" : "test_pytest01"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestFixture"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1OCD62H"
+  }, {
+    "name" : "thread",
+    "value" : "10932-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_3pytest_测试固件.test_pytest01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "func_scope",
+    "value" : "'xiaohei'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dde011dc2911a924.json",
+  "parameterValues" : [ "'xiaohei'" ]
+}

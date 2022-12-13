@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "d90a2c276f550bb99453316ea33da601",
+    "name" : "test_3pytest_测试固件",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 18
+    }
+  } ]
+}

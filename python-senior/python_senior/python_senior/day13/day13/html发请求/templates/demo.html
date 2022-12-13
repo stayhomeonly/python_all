@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Insert title here</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script>
+	$(function(){
+		$("#login").click(function(){
+		    var username=$("#username").val();
+            var pwd=$("#pwd").val();
+			$.ajax({
+  	  			url:"http://127.0.0.1:5000/login?username="+username+"&pwd="+pwd,
+  	  			type:"get",
+  	  			success:function(result){
+  	  				alert(result.msg)
+  	  			},
+			});
+		});
+	});
+    </script>
+</head>
+<body>
+<h1>我是登录页面</h1>
+
+用户名：<input type="text" id="username"/><br />
+密码：<input type="text" id="pwd"/><br />
+<button id="login">登录</button>
+<span id="re"></span>
+</body>
+</html>

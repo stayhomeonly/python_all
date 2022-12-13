@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert False",
+      "children" : [ {
+        "name" : "[Title] 验证正确的用户名和密码能否成功登录",
+        "uid" : "12b83d0358a04306",
+        "parentUid" : "8d89788b03808d3beec6ddf8e7d75f3d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1663490185920,
+          "stop" : 1663490185921,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8d89788b03808d3beec6ddf8e7d75f3d"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

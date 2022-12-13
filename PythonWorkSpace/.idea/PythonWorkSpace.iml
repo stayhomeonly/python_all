@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/autotest03" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <content url="file://$MODULE_DIR$/../PythonWorkSpace (1)" />
+    <content url="file://$MODULE_DIR$/../Pythonselenium">
+      <sourceFolder url="file://$MODULE_DIR$/../Pythonselenium/Appium1/kyb_testProject" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../python-senior" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

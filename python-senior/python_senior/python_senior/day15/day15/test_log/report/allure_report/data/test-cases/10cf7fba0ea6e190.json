@@ -1,0 +1,112 @@
+{
+  "uid" : "10cf7fba0ea6e190",
+  "name" : "用户名错误的场景",
+  "fullName" : "test_login.TestLogin#test_login",
+  "historyId" : "1bb4d0d4dee87ef9721af1acce06bbdb",
+  "time" : {
+    "start" : 1660463253545,
+    "stop" : 1660463253625,
+    "duration" : 80
+  },
+  "description" : "我们的第一个登录小程序",
+  "descriptionHtml" : "<p>我们的第一个登录小程序</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "我们的第一个登录小程序",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d76992a0e0511abe",
+      "name" : "接口地址",
+      "source" : "d76992a0e0511abe.attach",
+      "type" : "text/plain",
+      "size" : 27
+    }, {
+      "uid" : "f88690839ec91fa3",
+      "name" : "接口参数",
+      "source" : "f88690839ec91fa3.attach",
+      "type" : "text/plain",
+      "size" : 39
+    }, {
+      "uid" : "fac58b6d08c8c8a9",
+      "name" : "响应结果",
+      "source" : "fac58b6d08c8c8a9.attach",
+      "type" : "text/plain",
+      "size" : 52
+    }, {
+      "uid" : "5bc19335a9417ce5",
+      "name" : "log",
+      "source" : "5bc19335a9417ce5.txt",
+      "type" : "text/plain",
+      "size" : 312
+    }, {
+      "uid" : "c342b350846344f7",
+      "name" : "stderr",
+      "source" : "c342b350846344f7.txt",
+      "type" : "text/plain",
+      "size" : 111
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 5
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "登录模块的子模块"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-31HM1IE"
+  }, {
+    "name" : "thread",
+    "value" : "9324-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "<day15.test_excel_data.excel_test02.CaseData object at 0x0000028D2F186C88>"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "10cf7fba0ea6e190.json",
+  "parameterValues" : [ "<day15.test_excel_data.excel_test02.CaseData object at 0x0000028D2F186C88>" ]
+}

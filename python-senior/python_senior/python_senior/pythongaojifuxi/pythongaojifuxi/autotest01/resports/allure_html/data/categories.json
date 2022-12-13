@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert '登录成功' in \"{'code': 1007, 'msg': '用户名或者密码错误'}\"\n +  where \"{'code': 1007, 'msg': '用户名或者密码错误'}\" = str({'code': 1007, 'msg': '用户名或者密码错误'})",
+      "children" : [ {
+        "name" : "test_login[data0]",
+        "uid" : "e4b3684351097eb5",
+        "parentUid" : "6ab12d778c5aa9aec47b63d2fcf84a2a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1662282206947,
+          "stop" : 1662282206955,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': {'username': 'xiaozhen', 'password': 'a123456', 'typeId': '101'}, 'exp': '登录成功'}" ]
+      } ],
+      "uid" : "6ab12d778c5aa9aec47b63d2fcf84a2a"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

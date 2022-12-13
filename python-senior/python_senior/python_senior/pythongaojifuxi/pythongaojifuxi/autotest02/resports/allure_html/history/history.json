@@ -1,0 +1,117 @@
+{
+  "e9a416e40f561a3c6147fa9eea25b42b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bcf26473541b2837",
+      "status" : "passed",
+      "time" : {
+        "start" : 1663490997731,
+        "stop" : 1663490997738,
+        "duration" : 7
+      }
+    } ]
+  },
+  "23249be165a7da704d967ad4b74c5356" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "810ce306acf8d18f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1663490997709,
+        "stop" : 1663490997725,
+        "duration" : 16
+      }
+    } ]
+  },
+  "3afde42fe0e5a1956ca2efbbbf1ec0ab" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "107a270d6efa1957",
+      "status" : "passed",
+      "time" : {
+        "start" : 1663490997743,
+        "stop" : 1663490997755,
+        "duration" : 12
+      }
+    } ]
+  },
+  "91750af778dcf300cf81135a54629b52" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d273597b42ee4e99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1663490997692,
+        "stop" : 1663490997704,
+        "duration" : 12
+      }
+    } ]
+  },
+  "b90bb748d35be4d7a32636aea1197561" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fbfc9aba3369c1f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1663490997673,
+        "stop" : 1663490997687,
+        "duration" : 14
+      }
+    } ]
+  },
+  "020533943cd55a5ca156051ace37e7ae" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e651d4e1dc48e27a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '登录成功' in \"{'code': 1007, 'msg': '用户名或者密码错误'}\"\n +  where \"{'code': 1007, 'msg': '用户名或者密码错误'}\" = str({'code': 1007, 'msg': '用户名或者密码错误'})",
+      "time" : {
+        "start" : 1663490997610,
+        "stop" : 1663490997620,
+        "duration" : 10
+      }
+    } ]
+  }
+}

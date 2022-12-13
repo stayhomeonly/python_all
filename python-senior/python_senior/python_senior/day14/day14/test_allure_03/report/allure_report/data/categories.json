@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert {'code': 1000, 'msg': '注册成功'} == {'code': 1009...': '用户名不能重复！'}\n  Differing items:\n  {'msg': '注册成功'} != {'msg': '用户名不能重复！'}\n  {'code': 1000} != {'code': 1009}\n  Use -v to get more diff",
+      "children" : [ {
+        "name" : "test_register[case0]",
+        "uid" : "4bedae9f0d6fa550",
+        "parentUid" : "2abda7ed1ccb9f106dc5896708b4f289",
+        "status" : "failed",
+        "time" : {
+          "start" : 1659853732133,
+          "stop" : 1659853732311,
+          "duration" : 178
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': \"{'username':'xiaoliu','pwd':'a123456','re_pwd':'a123456','phone':'13487280000','email':'123@qq.com'}\", 'exp': '{\"code\": 1000, \"msg\": \"注册成功\"}'}" ]
+      } ],
+      "uid" : "2abda7ed1ccb9f106dc5896708b4f289"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

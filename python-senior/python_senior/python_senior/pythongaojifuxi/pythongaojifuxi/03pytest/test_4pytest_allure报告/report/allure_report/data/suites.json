@@ -1,0 +1,355 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_3pytest_测试固件",
+    "children" : [ {
+      "name" : "test_pytest01",
+      "children" : [ {
+        "name" : "TestFixture",
+        "children" : [ {
+          "name" : "test_case01[1]",
+          "uid" : "f2be1c82a6d268bc",
+          "parentUid" : "8aa1a2a61760d565590841d4a00baa63",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389257,
+            "stop" : 1663489389258,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'xiaohua'" ]
+        }, {
+          "name" : "test_case01[2]",
+          "uid" : "4b4aad2866a6260f",
+          "parentUid" : "8aa1a2a61760d565590841d4a00baa63",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389282,
+            "stop" : 1663489389283,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'xiaoli'" ]
+        }, {
+          "name" : "test_case01[3]",
+          "uid" : "28638e3fcc06567b",
+          "parentUid" : "8aa1a2a61760d565590841d4a00baa63",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389298,
+            "stop" : 1663489389300,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'xiaohei'" ]
+        }, {
+          "name" : "test_case02[1]",
+          "uid" : "e889e47eb42c0019",
+          "parentUid" : "8aa1a2a61760d565590841d4a00baa63",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389318,
+            "stop" : 1663489389319,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'xiaohua'" ]
+        }, {
+          "name" : "test_case02[2]",
+          "uid" : "f02bc8add790d092",
+          "parentUid" : "8aa1a2a61760d565590841d4a00baa63",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389335,
+            "stop" : 1663489389335,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'xiaoli'" ]
+        }, {
+          "name" : "test_case02[3]",
+          "uid" : "dde011dc2911a924",
+          "parentUid" : "8aa1a2a61760d565590841d4a00baa63",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389342,
+            "stop" : 1663489389343,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "'xiaohei'" ]
+        } ],
+        "uid" : "8aa1a2a61760d565590841d4a00baa63"
+      } ],
+      "uid" : "3472ab3dac665ca7382a787956b7bad4"
+    }, {
+      "name" : "test_pytest02",
+      "children" : [ {
+        "name" : "TestFixture",
+        "children" : [ {
+          "name" : "test_case01",
+          "uid" : "74b5c0ccbb3cb71d",
+          "parentUid" : "a8917311cbc8baea8cb91ca5436577bc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389349,
+            "stop" : 1663489389350,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_case02",
+          "uid" : "66f6cf67da9e27f6",
+          "parentUid" : "a8917311cbc8baea8cb91ca5436577bc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389358,
+            "stop" : 1663489389358,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_case03",
+          "uid" : "d35a018fccfd5186",
+          "parentUid" : "a8917311cbc8baea8cb91ca5436577bc",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389367,
+            "stop" : 1663489389368,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a8917311cbc8baea8cb91ca5436577bc"
+      }, {
+        "name" : "test_case04",
+        "uid" : "8048834cad0a6199",
+        "parentUid" : "16e90af41199c644d45842e0cd2a9dc8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1663489389379,
+          "stop" : 1663489389381,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "16e90af41199c644d45842e0cd2a9dc8"
+    }, {
+      "name" : "test_pytest03",
+      "children" : [ {
+        "name" : "TestFixture1",
+        "children" : [ {
+          "name" : "test_case01",
+          "uid" : "297610d48ff4fcb2",
+          "parentUid" : "4f66290e1bb8d5a629e29e410aa14ffd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389390,
+            "stop" : 1663489389390,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_case02",
+          "uid" : "2cb7cae7953f7e6c",
+          "parentUid" : "4f66290e1bb8d5a629e29e410aa14ffd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389394,
+            "stop" : 1663489389395,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4f66290e1bb8d5a629e29e410aa14ffd"
+      }, {
+        "name" : "TestFixture2",
+        "children" : [ {
+          "name" : "test_case03",
+          "uid" : "29ee7dca877652c4",
+          "parentUid" : "c43ff1b54a4edc714b4f78f53fdbe3e4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389400,
+            "stop" : 1663489389400,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_case04",
+          "uid" : "ee3cc60e5640e72",
+          "parentUid" : "c43ff1b54a4edc714b4f78f53fdbe3e4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389416,
+            "stop" : 1663489389417,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c43ff1b54a4edc714b4f78f53fdbe3e4"
+      } ],
+      "uid" : "f7d70dfb766b479493021c0babfeba85"
+    }, {
+      "name" : "test_pytest04",
+      "children" : [ {
+        "name" : "TestFixture",
+        "children" : [ {
+          "name" : "test_case01",
+          "uid" : "6ad3422b447cf9ac",
+          "parentUid" : "753013423bba5e31efcddbaf4dcfbfd8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389430,
+            "stop" : 1663489389438,
+            "duration" : 8
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_case02",
+          "uid" : "823e0a432324e524",
+          "parentUid" : "753013423bba5e31efcddbaf4dcfbfd8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389447,
+            "stop" : 1663489389448,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "753013423bba5e31efcddbaf4dcfbfd8"
+      }, {
+        "name" : "TestFixture02",
+        "children" : [ {
+          "name" : "test_case03",
+          "uid" : "ba16bedc7d359269",
+          "parentUid" : "57f1fc6ef2c43a1e5258675b6f9bcc20",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389459,
+            "stop" : 1663489389459,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_case04",
+          "uid" : "3a4c60b341c49d67",
+          "parentUid" : "57f1fc6ef2c43a1e5258675b6f9bcc20",
+          "status" : "passed",
+          "time" : {
+            "start" : 1663489389485,
+            "stop" : 1663489389486,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "57f1fc6ef2c43a1e5258675b6f9bcc20"
+      } ],
+      "uid" : "4d53109c12f6b4235e6c68a42ec85a2b"
+    } ],
+    "uid" : "d90a2c276f550bb99453316ea33da601"
+  } ]
+}

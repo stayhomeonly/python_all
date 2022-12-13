@@ -1,0 +1,115 @@
+{
+  "uid" : "d273597b42ee4e99",
+  "name" : "星光项目_token_login",
+  "fullName" : "testcase.test_login.TestLogin#test_login",
+  "historyId" : "91750af778dcf300cf81135a54629b52",
+  "time" : {
+    "start" : 1663490997692,
+    "stop" : 1663490997704,
+    "duration" : 12
+  },
+  "description" : "星光项目接口自动化-登录接口",
+  "descriptionHtml" : "<p>星光项目接口自动化-登录接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "星光项目接口自动化-登录接口",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "发起请求:",
+      "time" : {
+        "start" : 1663490997693,
+        "stop" : 1663490997702,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "e89ce7e9fd326027",
+      "name" : "请求参数",
+      "source" : "e89ce7e9fd326027.attach",
+      "type" : "text/plain",
+      "size" : 57
+    }, {
+      "uid" : "bd72e919853e240f",
+      "name" : "预期结果",
+      "source" : "bd72e919853e240f.attach",
+      "type" : "text/plain",
+      "size" : 18
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "登录接口"
+  }, {
+    "name" : "epic",
+    "value" : "星光项目接口"
+  }, {
+    "name" : "tag",
+    "value" : "P0"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1OCD62H"
+  }, {
+    "name" : "thread",
+    "value" : "13268-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'case_data': {'username': 'xiaozhen', 'password': '', 'typeId': '101'}, 'exp': '密码不能为空'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "P0" ]
+  },
+  "source" : "d273597b42ee4e99.json",
+  "parameterValues" : [ "{'case_data': {'username': 'xiaozhen', 'password': '', 'typeId': '101'}, 'exp': '密码不能为空'}" ]
+}

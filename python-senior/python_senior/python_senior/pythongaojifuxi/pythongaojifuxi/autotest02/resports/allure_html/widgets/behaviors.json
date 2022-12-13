@@ -1,0 +1,15 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "23ef757fee540204cf0399443aef14e1",
+    "name" : "星光项目接口",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

@@ -1,0 +1,79 @@
+{
+  "uid" : "3d7ac02c8d48f211",
+  "name" : "test_login[data1]",
+  "fullName" : "testcase.test_login.TestLogin#test_login",
+  "historyId" : "b90bb748d35be4d7a32636aea1197561",
+  "time" : {
+    "start" : 1662282206989,
+    "stop" : 1662282206995,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f3f7396e18513f77",
+      "name" : "stdout",
+      "source" : "f3f7396e18513f77.txt",
+      "type" : "text/plain",
+      "size" : 47
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-4A9BNHE"
+  }, {
+    "name" : "thread",
+    "value" : "9260-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'case_data': {'username': '', 'password': 'a123456', 'typeId': '101'}, 'exp': '用户名不能为空'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d7ac02c8d48f211.json",
+  "parameterValues" : [ "{'case_data': {'username': '', 'password': 'a123456', 'typeId': '101'}, 'exp': '用户名不能为空'}" ]
+}

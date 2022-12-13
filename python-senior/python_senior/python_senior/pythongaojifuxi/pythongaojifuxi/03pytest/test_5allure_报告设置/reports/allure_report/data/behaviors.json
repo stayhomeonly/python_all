@@ -1,0 +1,47 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "[epic] 淘宝电商系统测试",
+    "children" : [ {
+      "name" : "[story] 登录用例01",
+      "children" : [ {
+        "name" : "[Title] 验证正确的用户名和密码能否成功登录",
+        "uid" : "12b83d0358a04306",
+        "parentUid" : "9995a7c665bd67e8aacac81acf0b6e8f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1663490185920,
+          "stop" : 1663490185921,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9995a7c665bd67e8aacac81acf0b6e8f"
+    }, {
+      "name" : "test_login02",
+      "uid" : "4dcfbb567b9fdc0d",
+      "parentUid" : "4d97fc20a4e5be6ccac1241838818c6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1663490185946,
+        "stop" : 1663490185950,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4d97fc20a4e5be6ccac1241838818c6a"
+  } ]
+}

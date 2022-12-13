@@ -1,0 +1,79 @@
+{
+  "ec3f12ad818bb33a4c901a0b795296ac" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4bedae9f0d6fa550",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert {'code': 1000, 'msg': '注册成功'} == {'code': 1009...': '用户名不能重复！'}\n  Differing items:\n  {'msg': '注册成功'} != {'msg': '用户名不能重复！'}\n  {'code': 1000} != {'code': 1009}\n  Use -v to get more diff",
+      "time" : {
+        "start" : 1659853732133,
+        "stop" : 1659853732311,
+        "duration" : 178
+      }
+    } ]
+  },
+  "c4536928fea654efd024612fc148f4fe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a2c59a6a5f54d7c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659853732342,
+        "stop" : 1659853732347,
+        "duration" : 5
+      }
+    } ]
+  },
+  "45fd10e362803fbe037cc24d4f9a7c2e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7c3d5dfe56538234",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659853732357,
+        "stop" : 1659853732362,
+        "duration" : 5
+      }
+    } ]
+  },
+  "f99c4fbb314787d4f0f70040c50671ba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "45dc8cfeb9f3d7b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659853732350,
+        "stop" : 1659853732354,
+        "duration" : 4
+      }
+    } ]
+  }
+}

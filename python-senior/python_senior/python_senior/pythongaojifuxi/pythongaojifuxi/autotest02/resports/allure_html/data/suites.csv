@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sun Sep 18 16:49:57 CST 2022","Sun Sep 18 16:49:57 CST 2022","10","testcase","test_login","TestLogin","","","星光项目_token_login","星光项目接口自动化-登录接口"
+"passed","Sun Sep 18 16:49:57 CST 2022","Sun Sep 18 16:49:57 CST 2022","12","testcase","test_register","TestRegister","","","test_register[data2]",""
+"passed","Sun Sep 18 16:49:57 CST 2022","Sun Sep 18 16:49:57 CST 2022","16","testcase","test_register","TestRegister","","","test_register[data0]",""
+"passed","Sun Sep 18 16:49:57 CST 2022","Sun Sep 18 16:49:57 CST 2022","7","testcase","test_register","TestRegister","","","test_register[data1]",""
+"passed","Sun Sep 18 16:49:57 CST 2022","Sun Sep 18 16:49:57 CST 2022","12","testcase","test_login","TestLogin","","","星光项目_token_login","星光项目接口自动化-登录接口"
+"passed","Sun Sep 18 16:49:57 CST 2022","Sun Sep 18 16:49:57 CST 2022","14","testcase","test_login","TestLogin","","","星光项目_token_login","星光项目接口自动化-登录接口"

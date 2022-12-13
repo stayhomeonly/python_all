@@ -1,0 +1,21 @@
+[ {
+  "uid" : "12b83d0358a04306",
+  "name" : "[Title] 验证正确的用户名和密码能否成功登录",
+  "time" : {
+    "start" : 1663490185920,
+    "stop" : 1663490185921,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4dcfbb567b9fdc0d",
+  "name" : "test_login02",
+  "time" : {
+    "start" : 1663490185946,
+    "stop" : 1663490185950,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

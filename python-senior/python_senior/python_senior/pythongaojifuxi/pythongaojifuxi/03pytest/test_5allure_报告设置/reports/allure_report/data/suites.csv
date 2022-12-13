@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sun Sep 18 16:36:25 CST 2022","Sun Sep 18 16:36:25 CST 2022","1","","test_allure04","TestLogin","","","[Title] 验证正确的用户名和密码能否成功登录",""
+"passed","Sun Sep 18 16:36:25 CST 2022","Sun Sep 18 16:36:25 CST 2022","4","","test_allure04","TestLogin","","","test_login02",""

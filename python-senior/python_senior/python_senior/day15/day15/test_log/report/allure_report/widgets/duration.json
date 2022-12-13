@@ -1,0 +1,51 @@
+[ {
+  "uid" : "10cf7fba0ea6e190",
+  "name" : "用户名错误的场景",
+  "time" : {
+    "start" : 1660463253545,
+    "stop" : 1660463253625,
+    "duration" : 80
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "77324d8ae7ec0a16",
+  "name" : "登录测试主流程",
+  "time" : {
+    "start" : 1660463253389,
+    "stop" : 1660463253451,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "51fabd5a15a34a05",
+  "name" : "密码为空的场景",
+  "time" : {
+    "start" : 1660463253632,
+    "stop" : 1660463253716,
+    "duration" : 84
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "93c592ea3ca98602",
+  "name" : "密码错误的场景",
+  "time" : {
+    "start" : 1660463253722,
+    "stop" : 1660463253791,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "778c830d9c88c511",
+  "name" : "用户名为空的场景",
+  "time" : {
+    "start" : 1660463253459,
+    "stop" : 1660463253533,
+    "duration" : 74
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

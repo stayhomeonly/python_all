@@ -1,0 +1,61 @@
+[ {
+  "uid" : "e651d4e1dc48e27a",
+  "name" : "星光项目_token_login",
+  "time" : {
+    "start" : 1663490997610,
+    "stop" : 1663490997620,
+    "duration" : 10
+  },
+  "status" : "failed",
+  "severity" : "critical"
+}, {
+  "uid" : "107a270d6efa1957",
+  "name" : "test_register[data2]",
+  "time" : {
+    "start" : 1663490997743,
+    "stop" : 1663490997755,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "810ce306acf8d18f",
+  "name" : "test_register[data0]",
+  "time" : {
+    "start" : 1663490997709,
+    "stop" : 1663490997725,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bcf26473541b2837",
+  "name" : "test_register[data1]",
+  "time" : {
+    "start" : 1663490997731,
+    "stop" : 1663490997738,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d273597b42ee4e99",
+  "name" : "星光项目_token_login",
+  "time" : {
+    "start" : 1663490997692,
+    "stop" : 1663490997704,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "fbfc9aba3369c1f6",
+  "name" : "星光项目_token_login",
+  "time" : {
+    "start" : 1663490997673,
+    "stop" : 1663490997687,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

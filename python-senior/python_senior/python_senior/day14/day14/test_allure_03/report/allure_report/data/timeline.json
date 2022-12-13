@@ -1,0 +1,225 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-4A9BNHE",
+    "children" : [ {
+      "name" : "10704-MainThread",
+      "children" : [ {
+        "name" : "test_register[case3]",
+        "uid" : "629783074636f859",
+        "parentUid" : "bd6246359718d726606b7b9f9aac5f0a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659853472497,
+          "stop" : 1659853472500,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': \"{'username':'xiaoliu3','pwd':'a123456','re_pwd':'a123456','phone':'13487280003','email':'126@'}\", 'exp': '{\"code\": 1008, \"msg\": \"邮箱格式错误\"}'}" ]
+      }, {
+        "name" : "test_register[case2]",
+        "uid" : "b35393b8c63dc3ba",
+        "parentUid" : "bd6246359718d726606b7b9f9aac5f0a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659853472492,
+          "stop" : 1659853472495,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': \"{'username':'xiaoliu2','pwd':'a2345','re_pwd':'a2345','phone':'13487280002','email':'125@qq.com'}\", 'exp': '{\"code\": 1006, \"msg\": \"用户名和密码必须在6-18位之间\"}'}" ]
+      }, {
+        "name" : "test_register[case0]",
+        "uid" : "9ed0b79040aa1cf2",
+        "parentUid" : "bd6246359718d726606b7b9f9aac5f0a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1659853472451,
+          "stop" : 1659853472459,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': \"{'username':'xiaoliu','pwd':'a123456','re_pwd':'a123456','phone':'13487280000','email':'123@qq.com'}\", 'exp': '{\"code\": 1000, \"msg\": \"注册成功\"}'}" ]
+      }, {
+        "name" : "test_register[case1]",
+        "uid" : "b88e0d0fda474fb2",
+        "parentUid" : "bd6246359718d726606b7b9f9aac5f0a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659853472486,
+          "stop" : 1659853472489,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': \"{'username':'xiaoliu1','pwd':'a123456','re_pwd':'123456','phone':'13487280001','email':'124@qq.com'}\", 'exp': '{\"code\": 1003, \"msg\": \"两次密码输入不一致\"}'}" ]
+      } ],
+      "uid" : "bd6246359718d726606b7b9f9aac5f0a"
+    }, {
+      "name" : "3224-MainThread",
+      "children" : [ {
+        "name" : "test_register[case1]",
+        "uid" : "8ed7dc820f72adba",
+        "parentUid" : "d71d120cc6880ba935c1f4a5c18202cc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659853709604,
+          "stop" : 1659853709607,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': \"{'username':'xiaoliu1','pwd':'a123456','re_pwd':'123456','phone':'13487280001','email':'124@qq.com'}\", 'exp': '{\"code\": 1003, \"msg\": \"两次密码输入不一致\"}'}" ]
+      }, {
+        "name" : "test_register[case2]",
+        "uid" : "a27d432bfef638af",
+        "parentUid" : "d71d120cc6880ba935c1f4a5c18202cc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659853709610,
+          "stop" : 1659853709612,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': \"{'username':'xiaoliu2','pwd':'a2345','re_pwd':'a2345','phone':'13487280002','email':'125@qq.com'}\", 'exp': '{\"code\": 1006, \"msg\": \"用户名和密码必须在6-18位之间\"}'}" ]
+      }, {
+        "name" : "test_register[case0]",
+        "uid" : "615baf1c975e24b9",
+        "parentUid" : "d71d120cc6880ba935c1f4a5c18202cc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1659853709559,
+          "stop" : 1659853709577,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': \"{'username':'xiaoliu','pwd':'a123456','re_pwd':'a123456','phone':'13487280000','email':'123@qq.com'}\", 'exp': '{\"code\": 1000, \"msg\": \"注册成功\"}'}" ]
+      }, {
+        "name" : "test_register[case3]",
+        "uid" : "835dc05ecef21d4f",
+        "parentUid" : "d71d120cc6880ba935c1f4a5c18202cc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659853709615,
+          "stop" : 1659853709617,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': \"{'username':'xiaoliu3','pwd':'a123456','re_pwd':'a123456','phone':'13487280003','email':'126@'}\", 'exp': '{\"code\": 1008, \"msg\": \"邮箱格式错误\"}'}" ]
+      } ],
+      "uid" : "d71d120cc6880ba935c1f4a5c18202cc"
+    }, {
+      "name" : "11152-MainThread",
+      "children" : [ {
+        "name" : "test_register[case1]",
+        "uid" : "a2c59a6a5f54d7c3",
+        "parentUid" : "df2057be42fecdd583ca884c3e69cdcd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659853732342,
+          "stop" : 1659853732347,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': \"{'username':'xiaoliu1','pwd':'a123456','re_pwd':'123456','phone':'13487280001','email':'124@qq.com'}\", 'exp': '{\"code\": 1003, \"msg\": \"两次密码输入不一致\"}'}" ]
+      }, {
+        "name" : "test_register[case3]",
+        "uid" : "7c3d5dfe56538234",
+        "parentUid" : "df2057be42fecdd583ca884c3e69cdcd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659853732357,
+          "stop" : 1659853732362,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': \"{'username':'xiaoliu3','pwd':'a123456','re_pwd':'a123456','phone':'13487280003','email':'126@'}\", 'exp': '{\"code\": 1008, \"msg\": \"邮箱格式错误\"}'}" ]
+      }, {
+        "name" : "test_register[case2]",
+        "uid" : "45dc8cfeb9f3d7b3",
+        "parentUid" : "df2057be42fecdd583ca884c3e69cdcd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1659853732350,
+          "stop" : 1659853732354,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': \"{'username':'xiaoliu2','pwd':'a2345','re_pwd':'a2345','phone':'13487280002','email':'125@qq.com'}\", 'exp': '{\"code\": 1006, \"msg\": \"用户名和密码必须在6-18位之间\"}'}" ]
+      }, {
+        "name" : "test_register[case0]",
+        "uid" : "4bedae9f0d6fa550",
+        "parentUid" : "df2057be42fecdd583ca884c3e69cdcd",
+        "status" : "failed",
+        "time" : {
+          "start" : 1659853732133,
+          "stop" : 1659853732311,
+          "duration" : 178
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'case_data': \"{'username':'xiaoliu','pwd':'a123456','re_pwd':'a123456','phone':'13487280000','email':'123@qq.com'}\", 'exp': '{\"code\": 1000, \"msg\": \"注册成功\"}'}" ]
+      } ],
+      "uid" : "df2057be42fecdd583ca884c3e69cdcd"
+    } ],
+    "uid" : "14e2e3d8893c678447b39020092a6f2b"
+  } ]
+}
