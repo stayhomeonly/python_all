@@ -27,3 +27,5 @@ print(new_l)
 # 第三步,因为最后生成一个列表，所有需要把生成的列表内容变量放在最前面，然后用一个变量接收
 res=[ name for name in list1 if name.endswith('老坛酸菜')]
 print(res)
+
+# 列表生成式 [ 结果 for item in 可迭代对象 if 条件]
