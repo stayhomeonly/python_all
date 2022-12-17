@@ -19,7 +19,7 @@ g = func(1)
 # g.send(None) # next(g)
 # g.send(None)
 next(g)
-g.send(10)
+g.send(10) # send是在给yield传值
 
 
 def foo():

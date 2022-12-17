@@ -6,8 +6,8 @@
 --------------------------------
 """
 import pytest
-from PythonWorkSpace.autotest.comms.excel_utils import ReadExcel
-from PythonWorkSpace.autotest.comms.constants import DATA_FILE
+from comms.excel_utils import ReadExcel
+from comms.constants import DATA_FILE
 import requests
 from PythonWorkSpace.autotest.comms.log_utils import logger
 from PythonWorkSpace.autotest.comms.db_utils import DBUtils
